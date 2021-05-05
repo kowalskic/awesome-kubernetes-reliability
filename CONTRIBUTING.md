@@ -16,7 +16,7 @@ Please ensure your pull request adheres to the following guidelines:
     * Maintain alphabetical ordering where applicable.
 * Add a section if needed.
     * Add the section description.
-    * Add the section title to the [Index](https://github.com/donnemartin/awesome-aws#index).
+    * Add the section title to the [Index](https://github.com/kowalskic/awesome-reliability#index).
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
 * Send a pull request with the reason why the addition is awesome.
